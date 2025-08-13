@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "smoke-ci": "npx playwright test /*.e2e.spec.ts --reporter=html,list"
+    "smoke-ci": "npx playwright test /*.e2e.spec.ts --reporter=html,list",
+    "report": "npx playwright show-report"
   },
   "keywords": [],
   "author": "",

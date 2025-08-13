@@ -52,3 +52,7 @@ Welcome to the Playwright MCP Test Automation project! This repository demonstra
 - Generate and share detailed test reports
 
 ---
+
+### Report sample
+
+[Playwright HTML Report Sample](./report-sample.png)
